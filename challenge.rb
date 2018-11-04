@@ -14,6 +14,7 @@ room = (1..7)
 end
 
 def each_with_index
+  
   index 
   
   student = []
