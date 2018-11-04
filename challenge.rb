@@ -14,6 +14,10 @@ end
 def assign_rooms
   index 
   
+  student = []
+# student.push('Ann', 'Jake', 'Josh')
+# puts "Welcome #{student[0]} to Flatiron!"
+  
 
 
 
