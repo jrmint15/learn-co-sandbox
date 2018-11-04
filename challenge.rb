@@ -12,6 +12,7 @@ name = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 end
 
 def assign_rooms
+  index 
   
 
 
