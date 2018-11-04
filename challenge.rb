@@ -13,7 +13,7 @@ room = (1..7)
   puts "Hello, my name is #{name}."
 end
 
-def assign_rooms(name,room)
+def each_with_index
   index 
   
   student = []
