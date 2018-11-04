@@ -13,9 +13,8 @@ room = (1..7)
   puts "Hello, my name is #{name}."
 end
 
-def each_with_index
-  
-  index 
+def each_with_index(name, room)
+  if 
   
   student = []
 # student.push('Ann', 'Jake', 'Josh')
