@@ -7,11 +7,13 @@
 
 name = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
+room = (1..7)
+
   name.each do |name|
   puts "Hello, my name is #{name}."
 end
 
-def assign_rooms
+def assign_rooms(name,room)
   index 
   
   student = []
