@@ -11,9 +11,10 @@ name = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
   puts "Hello, my name is #{name}."
 end
 
- counter = 0 
+counter = 0 
 # while counter < 8
-#   puts "Welcome #{name[counter]} to Flatiron!"
+#   puts "Hello, #{name[counter]}! You'll be assigned to room #{room}!"
 #   counter = counter + 1 
 # end
+
 
